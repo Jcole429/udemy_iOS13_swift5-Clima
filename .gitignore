@@ -32,7 +32,7 @@ xcuserdata/
 *.ipa
 *.dSYM.zip
 *.dSYM
-*.swift
+
 ## Playgrounds
 timeline.xctimeline
 playground.xcworkspace
